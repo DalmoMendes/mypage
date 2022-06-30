@@ -34,8 +34,8 @@ https://mycolor.space
 
 Meus Contatos:
 
-E-mail: dalmosilvamendes@gmail.com
-https://www.linkedin.com/in/dalmomendes/
-https://github.com/DalmoMendes
-https://www.instagram.com/dalmosmendes/
-https://www.ceproirr.com.br/
+E-mail: dalmosilvamendes@gmail.com <br>
+https://www.linkedin.com/in/dalmomendes/<br>
+https://github.com/DalmoMendes<br>
+https://www.instagram.com/dalmosmendes/<br>
+https://www.ceproirr.com.br/<br>
