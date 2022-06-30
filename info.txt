@@ -1,0 +1,20 @@
+Projeto atualizado por DALMO SILVA MENDES
+
+Recursos e Ferramentas utilizados:
+
+Radius-border
+Transition
+
+EFEITOS SCROLL REVEAL:
+ https://scrollrevealjs.org/
+
+Background:
+https://mycolor.space
+
+Meus Contatos:
+
+E-mail: dalmosilvamendes@gmail.com
+https://www.linkedin.com/in/dalmomendes/
+https://github.com/DalmoMendes
+https://www.instagram.com/dalmosmendes/
+https://www.ceproirr.com.br/
